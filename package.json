@@ -1,0 +1,14 @@
+{
+  "name": "jsg-template",
+  "version": "0.0.1",
+  "description": "接水怪项目初始化模版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luoyang_yy",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
